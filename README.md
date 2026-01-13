@@ -20,5 +20,3 @@ Unlike traditional search engines that return the same results for everyone, thi
 ├── movies.csv            # Movie metadata (Title, Genres)
 ├── ratings.csv           # User rating logs (UserId, MovieId, Rating)
 ├── requirements.txt      # Python dependencies
-├── 凌正哲报告.pdf         # Final Technical Report (PDF)
-└── README.md             # Project documentation
